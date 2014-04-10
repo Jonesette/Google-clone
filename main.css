@@ -138,6 +138,7 @@ input:focus + div {
 
 #search:hover {
 	box-shadow: -3px 3px 5px gray;
+	font-weight: bold;
 }
 
 
@@ -151,4 +152,5 @@ input:focus + div {
 
 #lucky:hover {
 	box-shadow: 3px 3px 5px gray;
+	font-weight: bold;
 }
